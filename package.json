@@ -1,0 +1,23 @@
+{
+  "name": "hitomiv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teav4/hitomi-crawler.git"
+  },
+  "author": "yui421",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teav4/hitomi-crawler/issues"
+  },
+  "homepage": "https://github.com/Teav4/hitomi-crawler#readme",
+  "dependencies": {
+    "@types/request-promise": "^4.1.47",
+    "request-promise": "^4.2.6"
+  }
+}
